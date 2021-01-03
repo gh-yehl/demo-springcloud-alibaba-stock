@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3adb314-d15a-465b-a1fb-14553ff168a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mN7wGC79Etq6yBCbwRqbzKzEMO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yehl.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Learnings\Spring\demo-springcloud-alibaba-stock" />
+      <recent name="D:\Learnings\Spring\demo-springcloud-alibaba-stock\src\main\resources" />
+      <recent name="D:\Learnings\Spring\demo-springcloud-alibaba-stock\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ApplicationBoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yehl.ApplicationBoot" />
+      <module name="demo-springcloud-alibaba-stock" />
+      <option name="VM_PARAMETERS" value="-javaagent:$PROJECT_DIR$/../../../Software/apache-skywalking-apm-bin-es7/agent/skywalking-agent.jar -Dskywalking.agent.service_name=stock-service -Dskywalking.collector.backend_service=www.curvelife.top:11800" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yehl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApplicationBoot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3adb314-d15a-465b-a1fb-14553ff168a5" name="Default Changelist" comment="" />
+      <created>1609322431323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609322431323</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="230" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609589052104">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="230" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1549.831@0.0.1549.831" timestamp="1609589052104" />
+    <state x="580" y="99" key="#com.intellij.ide.util.MemberChooser" timestamp="1609491146647">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="580" y="99" key="#com.intellij.ide.util.MemberChooser/0.0.1549.831@0.0.1549.831" timestamp="1609491146647" />
+    <state x="458" y="340" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1609322563840">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="458" y="340" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1549.831@0.0.1549.831" timestamp="1609322563840" />
+    <state width="1506" height="147" key="GridCell.Tab.0.bottom" timestamp="1609595530693">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="147" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1609595530693" />
+    <state width="1506" height="147" key="GridCell.Tab.0.center" timestamp="1609595530693">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="147" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1609595530693" />
+    <state width="1506" height="147" key="GridCell.Tab.0.left" timestamp="1609595530692">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="147" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1609595530692" />
+    <state width="1506" height="147" key="GridCell.Tab.0.right" timestamp="1609595530693">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="147" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1609595530693" />
+    <state x="366" y="76" key="new project wizard" timestamp="1609322693477">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="366" y="76" key="new project wizard/0.0.1549.831@0.0.1549.831" timestamp="1609322693477" />
+  </component>
+</project>
